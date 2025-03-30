@@ -59,5 +59,5 @@ phoneFormatter.updatePhoneInputs('.new-phone-inputs');
 
 ## Методы
 `updatePhoneInputs([newSelector])`
-Обновляет список отслеживаемых элементов.
-Если передан newSelector - обновляет селектор.
+### Обновляет список отслеживаемых элементов.
+### Если передан newSelector - обновляет селектор.
